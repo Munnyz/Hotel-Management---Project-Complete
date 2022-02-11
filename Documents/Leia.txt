@@ -1,1 +1,9 @@
 # Configurar banco de dados
+- Pegue esses arquivos e jogue dentro da pasta HotelMan
+- Abra o Visual Studio com o projeto
+- Vá em Gerenciador de Servidores
+- Atualize o HotelManTuto.mdf e clique em cima dele
+- Vá em propriedades 
+- Copie a Cadeia de Conexão do banco
+- Substitua a sua cadeia nos SqlConnection no String
+- Faça isso nos Winforms - Categorias, Tenants, Apartamento, Senhorio, Aluguel
